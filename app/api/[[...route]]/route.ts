@@ -6,7 +6,7 @@ export const runtime = 'nodejs'
 
 const app = new Hono().basePath('/api')
     .use(clerkMiddleware())
-    .get('/api', (c) => {
+    .get('/hello', (c) => {
         return c.text('Hello from Hono!')
     })
 
