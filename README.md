@@ -20,7 +20,7 @@ This project is a starter template using the following technologies:
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+https://github.com/sumanbro0/Nextjs-Starter-template.git
 cd template
 ```
 
